@@ -16,7 +16,7 @@ Recipe Keeper is a full-stack CRUD web app for saving your favorite recipes
 
 ## Getting started
 
-
+https://recipe-keeper-app-41553fb646e7.herokuapp.com/auth/sign-in 
 
 
 
@@ -24,7 +24,7 @@ Recipe Keeper is a full-stack CRUD web app for saving your favorite recipes
 -favorites 
 -ratings
 -searchable recipes
--image upload
+- add image upload
 
 
 
